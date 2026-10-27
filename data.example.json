@@ -1,0 +1,10 @@
+{
+  "name": "Иван Петров",
+  "role": "Python-разработчик",
+  "about": "Пишу скрипты, боты и небольшие веб-сервисы.",
+  "skills": ["Python", "SQL", "Git", "Telegram Bot API"],
+  "jobs": [
+    {"title": "Разработчик", "company": "Пример-Студия", "years": "2024–2026", "text": "Автоматизация отчётов и телеграм-боты."}
+  ],
+  "contacts": {"GitHub": "https://github.com/example", "Telegram": "https://t.me/example"}
+}
